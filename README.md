@@ -1,5 +1,5 @@
-# VR Engineering: Haptic_Glove
-Designed and implemented a working prototype of Haptic Gloves, as a team project, under the course Virtual Reality Engineering (VR) @ IIT Madras 
+# VR Engineering: Haptic Glove
+Designed and implemented a working prototype of Haptic Glove, as a team project, under the course Virtual Reality Engineering (VR) @ IIT Madras 
 
 PROBLEM DEFINITION: “ Creating a wearable glove embedded with mechanical systems, which can make the hand feel a sense of touch, thermal state - hot/cold - and a kinesthetic finger feedback when it touches an obstacle in the virtual world ” 
 
