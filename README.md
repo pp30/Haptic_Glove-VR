@@ -5,12 +5,12 @@ PROBLEM DEFINITION: “ Creating a wearable glove embedded with mechanical syste
 
 There are two scripts, one in arduino and other in c#. "Sending.cs" is a c# script to connect to arduino using serial port. "receiving_unity.ino" is an arduino file to recieve from unity.
 
-##Software
+## Software
 - Unity3D 
 - Arduino
 - Leap Motion package.
 
-##Components
+## Components
 - Leap Motion camera 
 - Arduino Uno
 - Relay Switch
